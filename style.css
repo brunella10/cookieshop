@@ -1,0 +1,15 @@
+body {
+    color: black;
+    font-size: 12 px; 
+    background-color: aliceblue; 
+    margin: 30px;
+}
+ul {
+    padding: 20px;
+    background-color: blueviolet;
+}
+li {
+    background-color: azure;
+    border-color: black;
+    margin: 5px; 
+}
